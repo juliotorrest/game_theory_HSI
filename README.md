@@ -1,6 +1,6 @@
 # A game theory approach to explain HSI
 
-This repository contains the code for the implementation of the work presented in 'A Game Theory Approach to Finding the Spectral Bands that Explain Moisture Prediction in Canola and Wheat Hyperspectral Images', currently under review.
+This repository contains the code for the implementation of the work presented in 'A Novel Approach to Identify the Spectral Bands that Predict Moisture Content in Canola and Wheat', currently under review.
 
 Due to the relevance of agriculture in economy and human development, the inclusion of technology in this activity is of utmost importance. Our paper
 presents two main contributions: (i) an accurate DL model for the prediction of the moisture content of canola and wheat crops, based on HSI taken by a number of UAV flights; and (ii) a novel approach for assessing the importance of spectral bands in those predictions, using a game-theory model-interpretability analysis that was used as a tool for supervised band selection. 
