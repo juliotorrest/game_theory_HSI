@@ -1,6 +1,6 @@
 # A game theory approach to explain HSI
 
-This repository contains the code for the implementation of the work presented in 'A Novel Approach to Identify the Spectral Bands that Predict Moisture Content in Canola and Wheat', currently under review. This work was supported in part by an AI for Earth Microsoft Azure Compute Grant.
+This repository contains the code for the implementation of the paper 'A Novel Approach to Identify the Spectral Bands that Predict Moisture Content in Canola and Wheat', accepted for publishing in "Biosystems Engineering" Journal. This work was supported in part by an AI for Earth Microsoft Azure Compute Grant.
 
 Due to the relevance of agriculture in economy and human development, the inclusion of technology in this activity is of utmost importance. Our paper
 presents two main contributions: (i) an accurate DL model for the prediction of the moisture content of canola and wheat crops, based on HSI taken by a number of UAV flights; and (ii) a novel approach for assessing the importance of spectral bands in those predictions, using a game-theory model-interpretability analysis that was used as a tool for supervised band selection. 
